@@ -19,9 +19,9 @@ El Product Backlog contiene los requisitos principales del Sistema Web de Biblio
 | PB-13 | Permitir el registro de administradores | Media | 5 puntos | Terminado |
 | PB-14 | Mostrar el estado de los microservicios | Media | 5 puntos | Terminado |
 | PB-15 | Implementar navegación hacia Angular, React y jQuery | Media | 3 puntos | Terminado |
-| PB-16 | Crear repositorios independientes para las APIs | Alta | 5 puntos | Pendiente |
-| PB-17 | Subir los proyectos a GitHub | Alta | 8 puntos | Pendiente |
-| PB-18 | Preparar variables de entorno de producción | Alta | 5 puntos | Pendiente |
+|PB-16 | Crear repositorios independientes para las APIs | Alta | 5 puntos | Terminado
+|PB-17 | Subir los proyectos a GitHub | Alta | 8 puntos | Terminado| 
+|PB-18 | Preparar variables de entorno de producción | Alta | 5 puntos | Pendiente |
 | PB-19 | Configurar el servidor de producción | Alta | 13 puntos | Pendiente |
 | PB-20 | Publicar aplicaciones y microservicios | Alta | 13 puntos | Pendiente |
 | PB-21 | Configurar dominio o subdominios | Alta | 8 puntos | Pendiente |
